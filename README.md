@@ -1,2 +1,10 @@
-# datasciencecoursera
-To track prpgress of Coursera Data Science Toolbox
+# Coursera-DataScience
+To track the progress of coursera classes
+
+## This is a secondary heading
+### This is a tertiary heading
+
+* first item in the list
+* second
+* and third 
+* ...etc
